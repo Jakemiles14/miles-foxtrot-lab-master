@@ -1,13 +1,7 @@
 $(function() {
   
 
-const games = [
-  {
-    title: "007",
-    link: "James Bond", 
-    author: "Games Bond"
-  },
-];
+const games = 
 // iterate over the JSON array
 $.each(games, function (index, item) {
   console.log("Game Title: " + item.title);
