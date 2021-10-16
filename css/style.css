@@ -166,7 +166,7 @@ img{
 }
 
 .overlay-title {
-  position: relative;
+  position: absolute;
   top: 0px;
   color: black;
   font-size: smaller;
