@@ -167,9 +167,10 @@ img{
 
 .overlay-title {
   position: absolute;
-  top: 0px;
+  top: 20px;
+  right: 50%;
   color: black;
-  font-size: 150px;
+  font-size: 300px;
 }
 
 article {
