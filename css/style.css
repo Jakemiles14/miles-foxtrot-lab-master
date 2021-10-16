@@ -160,9 +160,9 @@ img{
   position: relative;
   width: 100px;
   height: auto;
-  margin-left: 100px;
+  margin-left: 0;
   margin-top: auto;
-  margin-bottom: 100px;
+  margin-bottom: 0;
 }
 
 .overlay-title {
