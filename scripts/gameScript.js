@@ -2,11 +2,6 @@ $(function() {
   
 
 const games = [
-{
-  title: "Dev-lab-echo",
-  link: "jakemiles14.github.io/miles-lab-echo/", 
-  author: "Jake Miles"
-},
 ];
 // iterate over the JSON array
 $.each(games, function (index, item) {
