@@ -161,6 +161,8 @@ img{
   width: auto;
   height: auto;
   margin-left: 100px;
+  margin-top: auto;
+  margin-bottom: 500px;
 }
 
 .overlay-title {
