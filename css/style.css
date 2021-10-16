@@ -157,8 +157,8 @@ img{
 }
 
 .textOverlay {
-  position: relative;
-  width: auto;
+  position: absolute;
+  width: 5000px;
   height: auto;
   margin-left: auto;
   margin-right: auto;
