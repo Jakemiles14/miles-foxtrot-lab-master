@@ -152,8 +152,8 @@ nav ul li ul li a {
 }
 
 img{
-  width: 100%;
-  height: 100%;
+  width: auto;
+  height: auto;
 }
 
 .textOverlay {
