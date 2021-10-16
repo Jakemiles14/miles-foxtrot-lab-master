@@ -16,7 +16,7 @@ var el = `<div class='card text-center mx-auto bg-dark blue' style="width: 200px
    <div class='cardHide'> \
        <br> \
        <a href="${ item.link }" target="_blank" class="link-info" >GAME LINK</a> \
-       <p class="text-white">Create by: ${ item.author } </p> \
+       <p class="text-white">Created by: ${ item.author } </p> \
        <br> \
        <button class='btn btn-outline-info cardClose2'>Close</button> \
    </div>
